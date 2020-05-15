@@ -1,0 +1,10 @@
+.*/
+src/gui/sample.fxml
+build/
+dist/
+out/
+a4.iml
+saves/
+antRunCheckstyle.xml
+checkstyle/
+mybuild.xml
